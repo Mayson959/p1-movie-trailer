@@ -17,3 +17,7 @@
 *Audience:Teens to Mid adults
 *How should they feel? The audience should be feeling unstoppable. Like they can pick up mountain and throw it past the horizion. I want them to feel like they can be as or even more powerful than the Jagers in the movies. I want them to have that nostalgic feeling of being really excited when seeing big mechs fighting aliens. 
 *Lots of adjectives: Insprational, Powerful, Triumphent, Strong, Bold, Cold, Dark backgrounds.
+
+## Visual Design
+
+* Collage from Art Direction
