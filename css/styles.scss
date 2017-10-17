@@ -1,8 +1,19 @@
 @import 'normalize' ;
 @import 'mediaelementplayer' ;
-
+@import url('https://fonts.googleapis.com/css?family=Orbitron|Source+Code+Pro');
 /*My Awesome Styling */
 
 body{
-    background: green;
+    background: black;
+}
+
+/* Letter Styling */
+h1{
+    color:blue;
+    font-family: 'Orbitron', sans-serif;
+}
+
+p{
+    color:aqua;
+    font-family: 'Source Code Pro', monospace;
 }

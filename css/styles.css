@@ -6,6 +6,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+@import url("https://fonts.googleapis.com/css?family=Orbitron|Source+Code+Pro");
 /* line 12, /Users/rmaysonet/Desktop/p1-movie-trailer/css/_normalize.css */
 html {
   line-height: 1.15;
@@ -1119,6 +1120,17 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 /*My Awesome Styling */
 /* line 6, /Users/rmaysonet/Desktop/p1-movie-trailer/css/styles.scss */
 body {
-  background: green; }
+  background: black; }
+
+/* Letter Styling */
+/* line 11, /Users/rmaysonet/Desktop/p1-movie-trailer/css/styles.scss */
+h1 {
+  color: blue;
+  font-family: 'Orbitron', sans-serif; }
+
+/* line 16, /Users/rmaysonet/Desktop/p1-movie-trailer/css/styles.scss */
+p {
+  color: aqua;
+  font-family: 'Source Code Pro', monospace; }
 
 /*# sourceMappingURL=styles.css.map */
