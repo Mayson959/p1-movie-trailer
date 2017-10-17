@@ -17,3 +17,17 @@ p{
     color:aqua;
     font-family: 'Source Code Pro', monospace;
 }
+
+/* layout */
+.page{
+    display:flex;
+}
+
+header,
+section,
+main,
+article,
+aside,
+footer{
+    flex: 1;
+}

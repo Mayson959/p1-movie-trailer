@@ -1133,4 +1133,18 @@ p {
   color: aqua;
   font-family: 'Source Code Pro', monospace; }
 
+/* layout */
+/* line 22, /Users/rmaysonet/Desktop/p1-movie-trailer/css/styles.scss */
+.page {
+  display: flex; }
+
+/* line 26, /Users/rmaysonet/Desktop/p1-movie-trailer/css/styles.scss */
+header,
+section,
+main,
+article,
+aside,
+footer {
+  flex: 1; }
+
 /*# sourceMappingURL=styles.css.map */
